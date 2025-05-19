@@ -1,5 +1,7 @@
 # Tesla Stock Price Forecasting Using LSTM
 
+![forceplot](https://github.com/user-attachments/assets/29c204b5-7b95-4e92-a363-6ab9ca50b777)
+
 ## 1. Project Analysis
 This project aims to predict Tesla's stock price (TSLA) using the Long Short-Term Memory (LSTM) model. LSTM is chosen for its ability to capture temporal patterns in time-series data. Stock price forecasting is crucial for helping investors make informed decisions based on historical trends.
 
